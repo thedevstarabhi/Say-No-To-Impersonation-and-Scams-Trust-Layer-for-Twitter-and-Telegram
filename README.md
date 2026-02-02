@@ -1,7 +1,5 @@
 # Say-No-To-Impersonation-and-Scams-Trust-Layer-for-Twitter-and-Telegram
 
----
-
 ```md
 # Say No To Impersonation — Trust Layer for Twitter + Telegram
 
